@@ -1,2 +1,2 @@
 # memory
-scripts to create long term memory contextual storage in for a language model
+scripts to write data to storage for long term memory contextual interaction with local language model(s)
